@@ -3,7 +3,7 @@
   bim2city - A Project for BIM to GIS Co-registration
 </h1>
 
-This is the repository for the master's thesis "Development of an Automated Method for the Co-registration of Indoor BIM Room Models to 3D City Models (in CityGML)".
+This is the repository for the master's thesis [Development of an Automated Method for the Co-registration of Indoor BIM Room Models to 3D City Models (in CityGML)](https://mediatum.ub.tum.de/node?id=1795555).
 
 # Basics
 - All commands assume an active Python environment in Ubuntu
