@@ -6,7 +6,7 @@
 This is the repository for the master's thesis [Development of an Automated Method for the Co-registration of Indoor BIM Room Models to 3D City Models (in CityGML)](https://mediatum.ub.tum.de/node?id=1795555).
 
 # Basics
-- All commands assume an active Python environment in Ubuntu
+- All commands assume an active Python environment.
 
 # Getting Started
 
